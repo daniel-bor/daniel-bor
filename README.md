@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy Daniel Bor, un estudiante universitario de Universidad Mariano Galvez de Guatemala, especializado en Ingeniería de Sistemas de Información. Tengo 22 años y estoy apasionado por el mundo de la tecnología y el desarrollo de software.
+¡Hola! Soy Daniel Bor, desarrollador web y estudiante de Universidad Mariano Galvez de Guatemala, especializado en Ingeniería de Sistemas de Información. Tengo 23 años y estoy apasionado por el mundo de la tecnología y el desarrollo de software.
 
 ## Sobre Mí
 
