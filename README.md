@@ -1,24 +1,46 @@
-# Bienvenido a mi perfil de GitHub 👋
+Desarrollador de Software Full-Stack con más de 3 años de experiencia creando aplicaciones web robustas y sistemas ERP a medida.
 
-Desarrollador web y estudiante de Universidad Mariano Galvez de Guatemala, de la facultad de Ingeniería en Sistemas de Información. Tengo 24 años y soy entusiasta por el mundo de la tecnología y el desarrollo de software.
+Actualmente compagino mi carrera profesional con mis estudios en Ingeniería en Sistemas de Información en la Universidad Mariano Galvez de Guatemala. Me apasiona el poder transformador de la tecnología y cómo puede utilizarse para resolver problemas complejos e impulsar el desarrollo.
 
-## Sobre Mí
+---
 
-- 👨‍🎓 Actualmente soy un estudiante en constante aprendizaje.
-- 🌱 Me emociona el avance tecnológico.
-- 💡 Tengo la visión de utilizar la tecnología para impulsar el desarrollo de mi comunidad local.
-- 💻 Disfruto trabajando en proyectos desafiantes y buscando soluciones innovadoras.
-- 🤝 Estoy abierto a la colaboración y ansioso por conocer a otros apasionados por la tecnología.
+### 🛠️ Mi Stack Tecnológico Principal
 
-## Mis Intereses
+*   **Backend:** C# (.NET Core), PHP (Laravel)
+*   **Frontend:** Vue.js (Especializado), TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+*   **Bases de Datos:** PostgreSQL, MySQL, SQL Server, Supabase
+*   **Infra/DevOps:** Docker, Git, Linux (Admin Básico), Nginx, Azure (Básico)
+*   **IA & Automatización:** Conocimientos en IA (Ollama, LMStudio, RAG), n8n
 
-- 🚀 Desarrollo de software y aplicaciones web.
-- 📊 Inteligencia artificial.
+---
 
-## Colaboración
+### 🌱 Acerca de Mí
 
-¡Estoy emocionado por el futuro en el mundo de la tecnología! Siempre estoy dispuesto a colaborar en proyectos interesantes y aprender de otros. Si compartes mis intereses o tienes ideas innovadoras, ¡no dudes en contactarme!
+*   👨‍💻 Más de 3 años de experiencia práctica en el ciclo completo de desarrollo de software: desde la toma de requerimientos y planificación hasta el despliegue y soporte.
+*   🚀 Entusiasta por la tecnología, siempre explorando nuevas herramientas y enfoques para crear soluciones eficientes y escalables.
+*   💡 Con la visión de aplicar mis habilidades técnicas para generar un impacto positivo, tanto en proyectos comerciales como en iniciativas de desarrollo comunitario.
+*   🎓 Estudiante dedicado, buscando constantemente integrar el conocimiento académico con la experiencia práctica del mundo real.
+*   🤝 Abierto a la colaboración, al aprendizaje mutuo y a conectar con otros apasionados por la tecnología y la innovación.
 
-## Contacto
+---
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/danielbor)
+### ✨ Intereses Actuales
+
+*   Construcción y optimización de sistemas ERP y aplicaciones web complejas.
+*   Exploración práctica de modelos de IA y su integración en aplicaciones.
+*   Automatización de flujos de trabajo y procesos con herramientas como n8n.
+*   Profundizar conocimientos en arquitecturas Cloud y prácticas DevOps.
+
+---
+
+### 🤝 Colaboración
+
+¡Estoy emocionado por seguir creciendo en el mundo de la tecnología! Siempre estoy dispuesto a colaborar en proyectos interesantes, compartir conocimientos y aprender de otros. Si compartes mis intereses, tienes una idea innovadora o buscas un colaborador, ¡no dudes en contactarme!
+
+---
+
+### 📫 Contacto
+
+*   **LinkedIn:** [linkedin.com/in/danielbor](https://www.linkedin.com/in/danielbor)
+*   **Portafolio:** (https://danielbor.tech)
+*   **Email:** [info@danielbor.tech]
